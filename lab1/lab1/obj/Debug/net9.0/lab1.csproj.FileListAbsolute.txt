@@ -1,0 +1,15 @@
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/bin/Debug/net9.0/lab1
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/bin/Debug/net9.0/lab1.deps.json
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/bin/Debug/net9.0/lab1.runtimeconfig.json
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/bin/Debug/net9.0/lab1.dll
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/bin/Debug/net9.0/lab1.pdb
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfoInputs.cache
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfo.cs
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.csproj.CoreCompileInputs.cache
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.sourcelink.json
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.dll
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/refint/lab1.dll
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.pdb
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/lab1.genruntimeconfig.cache
+/Users/ivan/RiderProjects/OOP-ITMO/lab1/lab1/obj/Debug/net9.0/ref/lab1.dll
